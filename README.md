@@ -13,6 +13,21 @@ group together the pro and con cases for each arguement
 
 ---------
 
+# 生成图片 - 1
+```
+用 DALL-E 给文章配图我是这么用的：
+
+首选选择 DALL-E 的 GPT 而不是 ChatGPT，这是 OpenAI 官方的专业做图的 GPT，不容易幻觉去做其他任务，从 GPT Store 可以很容易找到，链接：https://chatgpt.com/g/g-2fkFE8rbu-dall-e
+
+然后从底部选择风格和尺寸比例，或者自己直接 Prompt 写什么风格也可以
+
+提示词我比较偷懒，直接把全文贴进去让其生成，通常都还不错
+“Kawaii, wide aspect ratio，请根据下面文章内容生成一张配图： <全文>”
+
+生成的结果点击后可以二次编辑，局部修改
+```
+
+
 # 总结 - 1
 ```
 将三个引号之间的文本摘要成大约50个字。

@@ -30,3 +30,6 @@ def main():
     )
     answer = response.choices[0].message.content
     print(answer)
+
+if __name__ == "__main__":
+  main()

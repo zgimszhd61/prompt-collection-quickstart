@@ -1,0 +1,5 @@
+zhipuai
+google-cloud-aiplatform
+google-generativeai
+python-dotenv
+openai
